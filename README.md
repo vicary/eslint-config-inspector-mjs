@@ -6,6 +6,6 @@ This is a minrep for
 Run the following commands to get the error:
 
 ```bash
-> yarn
-> yarn eslint --inspect-config
+> npm install
+> npm start
 ```
